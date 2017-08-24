@@ -11,6 +11,9 @@ hehe
 * 3
 > 这是引用
 
+*这是倾斜*
+**这是加粗**
+
 ```text
 `var fs = require('fs');
 var path = require('path');
