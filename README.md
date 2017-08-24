@@ -4,6 +4,8 @@ these are svg Demos
 ## testMarkDown
 hehe
 
+![Mou icon](http://mouapp.com/Mou_128.png)
+
 * 1
 * 2
 * 3
